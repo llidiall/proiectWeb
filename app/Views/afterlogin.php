@@ -68,7 +68,7 @@ else
                    }
                     ?>
                 </div>
-                <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
+                <div class="masthead-heading text-uppercase">It's Nice To Meet You!</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="<?php echo base_url('/logout');?>">Logout</a></br>
                 <br/><br/>
                 <?php if($admin == 1){?>
